@@ -4,9 +4,12 @@ scipy>=1.4.1
 tables>=3.6.1
 matplotlib>=3.1.2
 seaborn>=0.9.0
-sklearn
+scikit-learn>=0.14.1
 tensorflow>=2.1.0
 keras>=2.3.1
 ipython>=7.11.1
 jupyter
-
+pydot>=1.4.1
+pyyaml>=3.12
+theano>=1.0.4
+mkdocs>=1.0.4
