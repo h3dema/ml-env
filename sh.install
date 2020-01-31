@@ -5,5 +5,9 @@ sudo apt upgrade -y
 
 sudo apt install -y git build-essential wget
 
+sudo apt install -y python3-pip
 sudo python3 -m pip install pip --upgrade
 sudo python3 -m pip install -r requeriments.txt
+
+sudo apt install -y snapd
+sudo snap install pycharm-community --classic
